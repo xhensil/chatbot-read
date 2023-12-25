@@ -1,0 +1,2 @@
+1.pip install -r requirements.txt
+2.streamlit run app.py kjo i ben run edhe kjo tek terminali
